@@ -1,4 +1,4 @@
-FROM ruby:2.2-slim
+FROM ruby:2.2
 MAINTAINER Jared Short <jshort@trek10.com>
 
 RUN apt-get update -y
